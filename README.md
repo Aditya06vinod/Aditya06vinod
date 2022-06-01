@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya06vinod
-- 👀 I’m interested in web devolopment 
+- 👀 I’m interested in  ETHIcaL H4cKInG & web devolopment 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityavinod06@gmail.com
